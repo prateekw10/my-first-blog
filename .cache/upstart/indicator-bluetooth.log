@@ -1,0 +1,9 @@
+
+** (process:1904): CRITICAL **: bluez.vala:354: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: Method "GetProperties" with signature "" on interface "org.bluez.Device" doesn't exist
+
+
+** (process:1904): CRITICAL **: bluez.vala:354: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: Method "GetProperties" with signature "" on interface "org.bluez.Device" doesn't exist
+
+
+** (process:1904): CRITICAL **: bluez.vala:354: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: Method "GetProperties" with signature "" on interface "org.bluez.Device" doesn't exist
+

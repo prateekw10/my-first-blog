@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml" />
+    <meta content="Ask. Answer. Understand. Get real-time study help. Join the world's largest study group." name="description" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml" />
+
+    <meta name="viewport" content="width=device-width" />
+
+    <meta content="http://openstudy.com/images/landing-logo.png" property="og:image" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml" />
+    <title xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml">
+        
+        OpenStudy
+    </title>
+
+    <link type="text/css" rel="stylesheet" href="http://assets.openstudy.com/stylesheets/openstudy.css?bd1626776da29e48208ce2554ea26d87" />
+
+    <script type="text/javascript" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml">// <![CDATA[
+    var _sf_startpt = (new Date()).getTime()
+    // ]]></script>
+
+    
+            
+    
+
+    
+   
+    <script src="http://api.mixpanel.com/site_media/js/api/mixpanel.js" type="text/javascript" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml"></script>
+    <script type="text/javascript" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml">var _sf_startpt = (new Date()).getTime()</script>
+
+    <!--[if lte IE 7]>
+        <script src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js" type="text/javascript" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml"></script>
+        
+            <script type="text/javascript" src="/javascripts/deprecation.js?1406796772000" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml"></script>
+        
+    <![endif]-->
+
+    <!--[if lte IE 8]>
+        <script type="text/javascript" src="http://assets.openstudy.com/javascripts/hi-im-ie8-and-i-dont-have-a-proper-ecma-implementation-but-ten-percent-of-our-users-still-use-me.js?ec4fa5b263f0aa8c2a1b3d0cc1bd40eb"></script>
+    <![endif]-->
+
+    
+        <link src="/images/favicon.ico" type="image/x-icon" rel="shortcut icon" id="favicon" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml" />
+    
+
+
+    <script type="text/javascript" src="http://assets.openstudy.com/javascripts/base-libs.js?2b11b2d469480b7e5a4d64768c39aa00"></script>
+    <script type="text/javascript" src="http://assets.openstudy.com/javascripts/jquery-address.js?1d3f939fe75ebe1e8975f1728c0925ee"></script>
+
+    <!--[if IE]>
+        
+            <script type="text/javascript" src="/javascripts/innershiv.min.js?1406796772000" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml"></script>
+            <link type="text/css" rel="stylesheet" href="/stylesheets/ie.css?1444216126000" xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml" />
+        
+    <![endif]-->
+    
+    <noscript xmlns:lift="http://liftweb.net/" xmlns="http://www.w3.org/1999/xhtml">
+        <div style="display:none;">
+            <img alt="Quantcast" width="1" height="1" border="0" src="//pixel.quantserve.com/pixel/p-b50-TZCjZ0XCQ.gif" />
+        </div>
+    </noscript>
+    
+
+      <link type="text/css" rel="stylesheet" href="http://assets.openstudy.com/stylesheets/search-landing.css?be372639e41c568cbc054e0b27dde657" />
+    
+      
+    
+
+      <script type="text/javascript">
+          var googletag = googletag || {};
+          googletag.cmd = googletag.cmd || [];
+          (function() {
+              var gads = document.createElement('script');
+              gads.async = true;
+              gads.type = 'text/javascript';
+              var useSSL = 'https:' == document.location.protocol;
+              gads.src = (useSSL ? 'https:' : 'http:') +
+              '//www.googletagservices.com/tag/js/gpt.js';
+              var node = document.getElementsByTagName('script')[0];
+              node.parentNode.insertBefore(gads, node);
+          })();
+      </script>
+
+      <script type="text/javascript">
+          googletag.cmd.push(function() {
+              googletag.defineSlot('/28653467/Search_160x600', [160, 600], 'div-gpt-ad-1385225433413-3').addService(googletag.pubads());
+              googletag.pubads().enableSingleRequest();
+              googletag.enableServices();
+          });
+      </script>
+
+
+  
+	
+</head>
+<body class="search-result no-auto-dispatch search-landing-verbiage-free-fast-tutoring via-search">
+    <div id="content-container">
+      <div id="content">
+          <div id="criteo-container-id" class="search-landing-ad-content">
+
+
+              
+              <div style="width:300px; height:600px;" id="div-gpt-ad-1425190919842-7">
+                  <script type="text/javascript">
+                  google_ad_client = 'ca-pub-2224625513254808';
+
+                  /* openstudy.com_300_600 */
+                  google_ad_slot = 'openstudy.com_300_600';
+                  google_ad_width = 300;
+                  google_ad_height = 600;
+
+                  </script>
+
+                  <script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+                  </script>
+              </div>
+          </div>
+
+          <div class="ad-container-yellow">
+              
+              <div style="width:160px; height:600px;" id="div-gpt-ad-1385225433413-3">
+                  <script type="text/javascript">
+                      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1385225433413-3'); });
+                  </script>
+              </div>
+          </div>
+
+          <div class="search-landing-ad-content-right-new">
+              
+              <div style="width:300px; height:250px;" id="div-gpt-ad-1425190919842-6">
+                  <script type="text/javascript">
+
+                  google_ad_client = 'ca-pub-2224625513254808';
+
+                  /* openstudy.com_300_250_A_tt */
+
+                  google_ad_slot = 'openstudy.com_300_250_A_tt';
+                  google_ad_width = 300;
+                  google_ad_height = 250;
+
+                  </script>
+
+                  <script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+                  </script>
+              </div>
+          </div>
+
+
+        <div class="search-landing-ad-content-left">
+            
+            <div class="search-landing-ad-content-left-new" style="width:160px; height:600px;" id="div-gpt-ad-1425190919842-3">
+                <script type="text/javascript">
+                google_ad_client = 'ca-pub-2224625513254808';
+                /* openstudy.com_160_2 */
+
+                google_ad_slot = 'openstudy.com_160_2';
+                google_ad_width = 160;
+                google_ad_height = 600;
+
+                </script>
+                <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+                </script>
+            </div>
+        </div>
+
+        <div class="search-landing-ad-content-wide">
+            
+            <div style="width:728px; height:90px;" id="div-gpt-ad-1425190919842-8">
+                <script type="text/javascript">
+                google_ad_client = 'ca-pub-2224625513254808';
+                /* openstudy.com_728_90_A_tt */
+                google_ad_slot = 'openstudy.com_728_90_A_tt';
+                google_ad_width = 728;
+                google_ad_height = 90;
+
+                </script>
+
+                <script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+                </script>
+
+            </div>
+        </div>
+
+
+        <header>
+            <a target="_blank" href="/"><img src="/images/logo-big.png" id="logo" /></a>
+            <h2>A community for students. <div class="sign-up-1"><a target="_blank" href="/">Sign up today</a></div></h2>
+        </header>
+
+        
+          
+            
+              
+                
+                
+              
+              
+                  
+                  
+              
+            
+          
+
+
+
+        
+          
+          <div style="width:300px; height:250px;" class="new-ad-1" id="div-gpt-ad-1425190919842-4">
+
+              <script type="text/javascript">
+              google_ad_client = 'ca-pub-2224625513254808';
+              /* openstudy.com_300_250_B_tt */
+              google_ad_slot = 'openstudy.com_300_250_B_tt';
+              google_ad_width = 300;
+              google_ad_height = 250;
+              </script>
+
+
+              <script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+              </script>
+
+          </div>
+
+        
+        
+          
+              
+          
+        
+          
+    <section class="group-snapshot">
+        <div class="youtube-video">
+	<div id="video-canvas">    
+	    
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script src="http://vcdn.vbz.netdna-cdn.com/jwplayer5/jwplayer.js"></script>
+<div id="ova-jwplayer-container"></div>
+<script type="text/javascript">
+//<![CDATA[
+jwplayer('ova-jwplayer-container').setup({"flashplayer": "http://vcdn.vbz.netdna-cdn.com/jwplayer5/player.swf","autostart": true,"mute": false,"playlist": [{file:"http://vcdn.vbz.netdna-cdn.com/videos/openstudy.mp4",image:"http://vcdn.vbz.netdna-cdn.com/videos/openstudy.jpg"}],"width": 640,"height": 480,"controlbar": {"position": "bottom"},"plugins": {"http://vcdn.vbz.netdna-cdn.com/jwplayer5/ova-jw.swf": {"ads": {"schedule": [{"position": "pre-roll","tag": "http://ads.adaptv.advertising.com/a/h/CpDpmKflB_oKBmpDMIPoVcwZtBMTi0qwWCWRy3vC5eypz3aLKB1Bu1LkzXwVZ8ff?cb=${AdPlayer.cachebreaker}&pageUrl=${embeddingPageUrl}&description=${description}&duration=${duration}&id=${id}&keywords=${keywords}&title=${title}&url=${videourl}&eov=eov"}]}}}});
+//]]>
+</script>
+
+
+	</div>
+
+        </div>
+        <ul class="top-online-users">
+            <h3>Some OpenStudiers</h3>
+            <li class="top-online-user top-user" id="across">
+                <a target="_blank" href="http://openstudy.com/users/sammixboo"><img src="/images/user1.png" class="top-avatar" /></a>
+                <div class="info">
+                    <a target="_blank" href="http://openstudy.com/users/sammixboo" class="top-user-link">Sammi</a>
+                    <div class="about">Trusted Helper</div>
+                    <p class="smartscores">SmartScore 99</p>
+                    <div class="status">OpenStudy Ambassador</div>
+                </div>
+            </li>
+            <li class="top-online-user top-user" id="aaron">
+                <a target="_blank" href="http://openstudy.com/users/aaronq"><img src="/images/user2.png" class="top-avatar" /></a>
+                <div class="info">
+                    <a target="_blank" href="http://openstudy.com/users/aaronq" class="top-user-link">Aaron</a>
+                    <div class="about">Mad Chemist</div>
+                    <p class="smartscores">SmartScore 99</p>
+                    <div class="status">Biology and Chemistry helper</div>
+                </div>
+            </li>
+            <li class="top-online-user top-user" id="hero">
+                <a target="_blank" href="http://openstudy.com/users/camerondoherty"><img src="/images/user3.png" class="top-avatar" /></a>
+                <div class="info">
+                    <a target="_blank" href="http://openstudy.com/users/camerondoherty" class="top-user-link">Cameron</a>
+                    <div class="about">Mighty Pen</div>
+                    <p class="smartscores">SmartScore 86</p>
+                    <div class="status">Writing and Biology</div>
+                </div>
+            </li>
+            <li class="top-online-user top-user" id="laura">
+                <a target="_blank" href="http://openstudy.com/users/aripotta"><img src="/images/user4.png" class="top-avatar" /></a>
+                <div class="info">
+                    <a target="_blank" href="http://openstudy.com/users/aripotta" class="top-user-link">Arielle</a>
+                    <div class="about">Mathlete</div>
+                    <p class="smartscores">SmartScore 92</p>
+                    <div class="status">A Trusted Helper</div>
+                </div>
+            </li>
+
+        <div class="more"><a target="_blank" href="/study#/groups/mathematics">Learn More about<br />who's on OpenStudy</a></div>
+        <div class="explore"><a target="_blank" href="/study#/groups/mathematics">Explore OpenStudy</a></div>
+      <div class="sign-up-2"><a target="_blank" href="/">Sign up</a></div>
+
+
+    </ul>
+    <form class="post-update">
+      <button class="submit">Ask a Question</button>
+      <div class="placeholder-wrapper">
+        <label for="update">Type your question here</label>
+        <input class="to-placehold" name="update" id="update" type="text" />
+      </div>
+    </form>
+
+    <p>Here's the question you clicked on:</p>
+    <section data-title="Why does Caesium ha‚Ä¶" data-id="4f308646e4b0fc09381eedc8" class="update">
+      
+  <div class="update-header">
+    <a href="/study" data-bind="attr: { href: (openstudy.profileUser &amp;&amp; openstudy.profileUser()) ? openstudy.profileQuestionsHref() : openstudy.currentGroupHref() }" class="home-link">
+      ‚Üê <span data-bind="text: openstudy.updateBackLinkText()">55 members online</span>
+    </a>
+
+    <ul class="update-info">
+      <li data-bind="text: replying() + ' replying'" class="replying-text">
+        0 replying
+      </li>
+      <li data-bind="text: viewing() + ' viewing'" class="viewing-text">
+        0 viewing
+      </li>
+    </ul>
+  </div>
+
+  <div data-bind="attr: { 'data-gc-version': gcVersion }" class="update-content">
+    <ul data-bind="template: { foreach: combinedViewers }" class="update-users">
+      
+    </ul>
+
+    <h2 data-title="Why does Caesium ha‚Ä¶" data-id="4f308646e4b0fc09381eedc8" data-bind="classAttributeForUser: poster, attr: { 'data-id': id }, css: { 'mentions-current-user': mentionsCurrentUser() }" class="update-body update post">
+
+        <a class="avatar-link user-link " href="/users/thebagleboy" data-bind="attr: { href: poster().profileHref() }, classAttributeForUser: poster" target="_blank">
+            <img class="avatar thebagleboy" src="http://graph.facebook.com/1379970675/picture?type=square" data-bind="attr: { src: poster().largeAvatarSrc() }" />
+
+            
+        </a>
+
+      <div class="info">
+        <p data-id="thebagleboy" data-bind="with: poster" class="user poster">
+          thebagleboy
+        <ul class="update-info">
+        <li data-date="Tue, 7 Feb 2012 02:02:46 GMT" data-bind="text: createdAt(), attr: { 'data-date': createdAt() }" class="update-info last-updated to-fuzzy">3 years ago</li>
+        </ul>
+        </p>
+
+        <p data-bind="html: parsedBody" class="body">Why does Caesium have the largest atomic radius?</p>
+      </div>
+      <button data-bind="visible: deleteFn, click: deleteFn" class="delete">Delete</button>
+
+      <div class="editor">
+        <textarea data-bind="html: editableBody" class="update-body autogrowing"></textarea>
+
+        <ul class="editor-actions">
+          <li class="cancel-edit"><button>Cancel</button></li>
+          <li class="submit-edit"><button>Submit</button></li>
+        </ul>
+      </div>
+    </h2>
+
+    <ul class="controller">
+      <li>
+        <button data-fb-client-id="115342165252" class="share-fb" data-event="click" data-category="share-update" data-label="facebook" data-bind="attr: { 'data-group-id': openstudy.currentUpdate().groupId() }">
+          <span class="icon">
+            Share
+          </span>
+        </button>
+      </li>
+      <li>
+        <button data-bind="attr: { 'data-group-id': openstudy.currentUpdate().groupId() }" data-label="twitter" data-category="share-update" data-event="click" class="share-twitter">
+          <span class="icon">
+            Tweet
+          </span>
+        </button>
+      </li>
+      <li class="state">
+        
+        <div class="closed" data-bind="visible: ! isOpen()">This Question is Closed</div>
+        
+      </li>
+    </ul>
+
+    <ol data-bind="template: { foreach: replyContents, afterAdd: openstudy.fadeIn, afterRender: openstudy.renderPlugins }" class="replies autoloader">
+      <li class="reply post medal no-medal" data-id="4f308d58e4b0fc09381ef14d" data-bind="attr: { 'data-id': id },                      css: { medal: ! openstudy.loggedIn() || isMine() || (medalFromCurrentUser() &amp;&amp; $parent.updateHasMedalFromCurrentUser()),                             'no-medal': ! openstudy.loggedIn() || isMine() || (! medalFromCurrentUser() &amp;&amp; ! $parent.updateHasMedalFromCurrentUser()),                             'medal-given-elsewhere': ! openstudy.loggedIn() || isMine() || (! medalFromCurrentUser() &amp;&amp; $parent.updateHasMedalFromCurrentUser()),                             moderator: poster().isModerator, 'mentions-current-user': mentionsCurrentUser() },                      classAttributeForUser: poster">
+        <a class="avatar-link user-link " href="/users/xishem" data-bind="attr: { href: poster().profileHref() }, classAttributeForUser: poster" target="_blank">
+          <img class="avatar Xishem " src="http://assets.openstudy.com/users/xishem/avatar/large?1345951310093" data-bind="attr: { src: poster().largeAvatarSrc() }" />
+
+          
+        </a>
+
+        <div class="info">
+          <a class="user-link username " href="/users/xishem" data-bind="text: poster().username(), css: { 'ambassador': poster().isAmbassador() }" target="_blank">Xishem</a>
+
+          <ul class="update-info">
+            <li data-date="Tue, 7 Feb 2012 02:32:56 GMT" data-bind="text: lastUpdatedText(), attr: { 'data-date': lastUpdated() }" class="update-info last-updated to-fuzzy">3 years ago</li>
+          </ul>
+
+          <div class="medal-info">
+            <div class="medal-giving">
+              
+            </div>
+
+            <div class="medal-given">
+              <span>Best Response</span>
+              
+            </div>
+
+            <div class="best-answer-selected">
+              <span>You've already chosen the best response.</span>
+            </div>
+
+            <img alt="Medals" src="/images/medal-icon-small.png" class="medals" />
+            <span data-bind="text: medalCount" class="medal-count">2</span>
+          </div>
+
+
+          <p data-bind="html: parsedBody" class="body">Caesium has the largest atomic radius because it has the furthest distance electron shell filled, while having the smallest overall nuclear charge.
+
+In other words, it has a larger atomic radius than the elements above it in the periodic table because they don't have as many electron shells filled -- the electron shells that fill last are further away from the nucleus.
+
+The reason it has a larger atomic radius than the elements to the right of it is because it has a less overall nuclear charge (fewer protons), so it pulls on the electrons in the outer shell less than the others.
+
+The reason it has a larger atomic radius than Francium is because, well, we don't know whether it does. But since Francium is extremely unstable, we're unsure. It may be smaller because of other various effects which can be difficult to comprehend.</p>
+          
+          
+        </div>
+
+        
+      </li><li class="reply post medal no-medal" data-id="4f30980de4b0fc09381ef8e2" data-bind="attr: { 'data-id': id },                      css: { medal: ! openstudy.loggedIn() || isMine() || (medalFromCurrentUser() &amp;&amp; $parent.updateHasMedalFromCurrentUser()),                             'no-medal': ! openstudy.loggedIn() || isMine() || (! medalFromCurrentUser() &amp;&amp; ! $parent.updateHasMedalFromCurrentUser()),                             'medal-given-elsewhere': ! openstudy.loggedIn() || isMine() || (! medalFromCurrentUser() &amp;&amp; $parent.updateHasMedalFromCurrentUser()),                             moderator: poster().isModerator, 'mentions-current-user': mentionsCurrentUser() },                      classAttributeForUser: poster">
+        <a class="avatar-link user-link " href="/users/unklerhaukus" data-bind="attr: { href: poster().profileHref() }, classAttributeForUser: poster" target="_blank">
+          <img class="avatar UnkleRhaukus " src="http://assets.openstudy.com/users/unklerhaukus/avatar/large?1443184339211" data-bind="attr: { src: poster().largeAvatarSrc() }" />
+
+          
+        </a>
+
+        <div class="info">
+          <a class="user-link username " href="/users/unklerhaukus" data-bind="text: poster().username(), css: { 'ambassador': poster().isAmbassador() }" target="_blank">UnkleRhaukus</a>
+
+          <ul class="update-info">
+            <li data-date="Tue, 7 Feb 2012 03:18:37 GMT" data-bind="text: lastUpdatedText(), attr: { 'data-date': lastUpdated() }" class="update-info last-updated to-fuzzy">3 years ago</li>
+          </ul>
+
+          <div class="medal-info">
+            <div class="medal-giving">
+              
+            </div>
+
+            <div class="medal-given">
+              <span>Best Response</span>
+              
+            </div>
+
+            <div class="best-answer-selected">
+              <span>You've already chosen the best response.</span>
+            </div>
+
+            <img alt="Medals" src="/images/medal-icon-small.png" class="medals" />
+            <span data-bind="text: medalCount" class="medal-count">1</span>
+          </div>
+
+
+          <p data-bind="html: parsedBody" class="body">the alkali metals have the largest radius per mass because they have the electronic configuration of the noble gasses plus one electron,
+this last electron must go into a new atomic orbital because the others are all filled,
+the next available atomic orbital is spherical and outside the others,
+The negative electron is held because there is positive charge in the nucleus. However most of the charge is already balanced by the electrons in the inner orbitals.
+This means the force of attractions is small and hence the orbital is large.</p>
+          
+          
+        </div>
+
+        
+      </li>
+      <div class="show-answer"><a href="#">Show full answer</a></div>
+
+
+
+      <form action="http://www.google.com/search" method="get" class="google-search-openstudy">
+        <p>Not the answer you are looking for?<br />Search for more explanations.</p>
+        <div>
+          <table cellpadding="0" align="center" border="0">
+            <tr><td>
+              <input size="25" name="q" type="text" />
+              <input value="openstudy.com" name="as_sitesearch" type="hidden" />
+              <input onclick="this.form.target='_blank';return true;" value="Search OpenStudy" type="submit" class="clickme" />
+              </td>
+            </tr>
+          </table>
+        </div>
+      </form>
+
+
+
+    </ol>
+
+    
+
+    <ol class="replies" id="replyForQuestion">
+      
+
+      <li style="overflow: hidden;" class="post-reply" id="replyFormLi"><form id="F133223575653LDM0IG" action="javascript://" onsubmit="liftAjax.lift_ajaxHandler(jQuery('#'+&quot;F133223575653LDM0IG&quot;).serialize(), null, null, &quot;javascript&quot;);return false;">
+        <label class="disabled" for="reply-body" data-bind="css: { disabled: ! openstudy.currentUser().isDefined() }">Type your reply</label>
+        <textarea disabled="disabled" name="F133223575650BPOWI5" data-bind="                     attr: {                       name: (typeof replyBodyName != 'undefined') ? replyBodyName : undefined,                       disabled: ! openstudy.currentUser().isDefined()                     },                     enable: openstudy.currentUser().isDefined()" id="reply-body" class="reply-body to-placehold autogrowing" type="text" tabindex="3"></textarea>
+        <div class="signup-for-action logged-out"><button>Sign up</button> to post a reply‚Äîit's free!</div>
+        <ul class="files-attached">
+          <li class="header">Attachments:</li>
+        </ul>
+        <div class="toolbar">
+          
+            <button class="equation" tabindex="5">Equation</button>
+            <button class="draw" tabindex="7">Draw</button>
+            <input data-bind="attr: { name: (typeof dwFieldName != 'undefined') ? dwFieldName : undefined }" id="drawing-data" type="hidden" />
+            <div class="file-upload">
+              <button class="cover" tabindex="6">Attach File</button>
+              <input class="file-attach" data-bind="attr: { name: (typeof fileFieldName != 'undefined') ? fileFieldName : undefined }" type="file" name="F133223575651W0UXJK" />
+            </div>
+          
+          <input name="F133223675652L4UQZN" onclick="liftAjax.lift_uriSuffix = this.name + '=_'; return true;" data-bind="attr: { name: (typeof submitName != 'undefined') ? submitName : undefined, 'data-group-id': openstudy.currentUpdate().groupId() }" data-value="3" data-event="post" data-category="reply" tabindex="4" value="Post" type="submit" class="submit" />
+        </div>
+      </form></li>
+    </ol>
+  </div>
+
+
+
+
+    </section>
+
+    <section class="own-question">
+      <h4>Ask your own question</h4>
+      <a target="_blank" class="ask" href="/">Sign Up</a><br />
+      <a target="_blank" class="findmore" href="/">Find more explanations on OpenStudy</a>
+    </section>
+    
+
+<center class="private"><a target="_blank" href="/privacy-policy" class="direct">Privacy Policy</a></center>
+
+  </section>
+
+  <section class="no-popup" id="signup">
+    <h2>Your question is ready. Sign up for free to start getting answers.</h2>
+
+    <form id="F133223575804W2JMG0" action="javascript://" onsubmit="liftAjax.lift_ajaxHandler(jQuery('#'+&quot;F133223575804W2JMG0&quot;).serialize(), null, null, &quot;javascript&quot;);return false;" class="signup">
+      <p class="message ">You have successfully connected your Facebook account. Please fill out this form to complete signup.</p>
+      <a data-fb-uri="http://facebook.com/dialog/oauth?client_id=115342165252&amp;redirect_uri=http%3A%2F%2Fopenstudy.com%2Foauth-redirect&amp;scope=user_about_me%2Cuser_education_history%2Cemail%2Cpublish_stream" href="#fb" class="facebook-connect direct">Join Using Facebook</a>
+      <p class="openstudy-signup">Or create a new free OpenStudy account</p>
+      <fieldset>
+        <ul>
+          <li class="string required">
+            <label for="signup-username">Username</label>
+            <input id="signup-username" class="username to-placehold" size="50" type="text" name="F133223575797YZIMXA" value="" />
+            
+          </li>
+          <li class="string required">
+            <label for="signup-email">Email</label>
+            <input id="signup-email" class="email to-placehold" size="50" value="" name="F133223575798SFNDCN" type="email" />
+            
+          </li>
+          <li class="password required">
+            <label for="signup-password">Password</label>
+            <input id="signup-password" class="signup-password password to-placehold" size="50" value="" name="F1332235758001MTPHK" type="password" />
+            
+          </li>
+          <li class="checkbox required">
+            <input id="agree-to-terms" name="F133223575802OZCKLJ" type="checkbox" value="true" class="agree-to-terms" /><input name="F133223575802OZCKLJ" type="hidden" value="false" />
+            <label for="agree-to-terms">
+              Yes, I agree to the OpenStudy
+              <a href="/terms-and-conditions" target="_blank" class="direct">Terms</a>
+              and
+              <a href="/privacy-policy" target="_blank" class="direct">Privacy Policy</a>
+            </label>
+
+            
+          </li>
+        </ul>
+      </fieldset>
+      <input name="F133223675803XAHNVP" onclick="liftAjax.lift_uriSuffix = this.name + '=_'; return true;" value="Sign Up! It's Free" type="submit" class="submit submit-button" />
+    </form>
+
+  </section>
+  <script>
+
+    $('div.sign-up-2').click(function(){
+      urlLink= $(this).find('a').attr('href');
+      window.open(
+              urlLink, '_blank' )
+      return false;
+    });
+
+    $('div.explore').click(function(){
+      urlLink= $(this).find('a').attr('href');
+      window.open(
+              urlLink, '_blank' )
+      return false;
+    });
+
+    $('div.more').click(function(){
+      urlLink= $(this).find('a').attr('href');
+      window.open(
+              urlLink, '_blank' )
+      return false;
+    });
+  </script>
+
+  <div data-bind="with: user" itemtype="http://data-vocabulary.org/Person" itemscope="itemscope" class="user short-profile" id="profile-tooltip">
+  <div class="close"><button>Close</button></div>
+  <div class="the-profile">
+
+    <div class="avatar">
+      <a target="_blank" href="/users/spraguer" data-bind="attr: { href: profileHref }" class="avatar-link user-link">
+            <img data-bind="attr: { src: avatarSrc }" class="avatar" src="/images/who-we-are/chris.jpg" />
+      </a>
+    </div>
+    
+    <h5>
+      <div data-bind="css: { moderator: isModerator }">
+        <span data-bind="text: username, css: { 'ambassador': isAmbassador }" class="username">spraguer</span>
+        <span data-bind="visible: designation, text: ' (' + designation() + ')'" class="role"> (Moderator)</span>
+
+      </div>
+      <a data-bind="attr: { href: profileHref() + '#' + profileHref() + '/fans' }, text: fanCount() + ' fan'.pluralize(fanCount())" class="direct parenless-fans" target="_blank" href="/users/spraguer/#/users/spraguer/fans">5</a>
+      <a target="_blank" href="/users/spraguer" data-bind="attr: { href: profileHref }" class="user-link detailed-link">‚Üí View Detailed Profile</a>
+    </h5>
+  </div>
+
+  <p data-bind="visible: currentAction" class="activity">
+    <span data-bind="text: currentAction" data-label-selector="true" class="current-action">is replying to</span>
+    <a data-bind="text: truncatedActionTextForTooltip, attr: { href: actionLink().href }" href="/updates/12351235" class="action-link">Can someone tell
+    me what button the professor is hitting...</a>
+  </p>
+
+  <div data-bind="with: $data.smarts()" class="smarts">
+    <p data-bind="text: percentile, tierClassFor: percentile" class="level">
+      23
+    </p>
+
+    <ul data-bind="with: $data['components']">
+      <li data-bind="with: teamwork, tierClassFor: teamwork.score" class="component teamwork">
+        Teamwork
+        <span data-bind="text: score" class="score">19</span>
+        <span data-bind="text: title" class="title">Teammate</span>
+      </li>
+      <li data-bind="with: problemSolving, tierClassFor: problemSolving.score" class="component problem-solving">
+        Problem Solving
+        <span data-bind="text: score" class="score">19</span>
+        <span data-bind="text: title" class="title">Hero</span>
+      </li>
+      <li data-bind="with: engagement, tierClassFor: engagement.score" class="component engagement">
+        Engagement
+        <span data-bind="text: score" class="score">19</span>
+        <span data-bind="text: title" class="title">Mad Hatter</span>
+      </li>
+    </ul>
+  </div>
+  <img class="ajax-loader" src="/images/ajax-loader-blue.gif" />
+  
+  <ul data-bind="visible: canModerateThisUser()" class="moderator-tools">
+    <li data-bind="visible: banFn"><button data-bind="click: banFn" class="ban-user">Ban</button></li>
+    <li data-bind="visible: suspendFn"><button data-bind="click: suspendFn" class="suspend-user">Suspend</button></li>
+    <li data-bind="visible: warnFn"><button data-bind="click: warnFn" class="suspend-user">Warn</button></li>
+    <li data-bind="visible: ipCheckFn"><button data-bind="click: ipCheckFn" class="ipcheck-user">IP Check</button></li>
+    <li data-bind="visible: openstudy.currentUserCanKickFromContextGroup()"><button data-bind="click: kickFn" class="kick-user">Kick</button></li>
+  </ul>
+  
+  <ul data-bind="visible: openstudy.loggedIn() &amp;&amp; ! isCurrentUser(), css: { fan: ! openstudy.loggedIn() || isCurrentUser() || isFan(), 'not-fan': ! openstudy.loggedIn() || isCurrentUser() || ! isFan(), blocked: isBlocked }" class="user-tools">
+    <li><button data-bind="click: messageFn" class="message-user">Send Message</button></li>
+    <li><button data-bind="click: blockFn" class="block-user" data-event="click" data-category="block-user">Block User</button></li>
+    <li class="unblock">
+      <span>You have blocked this person.</span>
+      <button data-bind="click: unblockFn" class="unblock-user" data-event="click" data-category="unblock-user">Unblock</button>
+    </li>
+    <li data-bind="if: openstudy.loggedIn()" class="fanning">
+      <button data-bind="click: fanFn" class="become-a-fan" data-label="Become a fan" data-event="click" data-category="become-fan">Become a fan</button>
+      <span class="already-a-fan">‚úî You're a fan<button data-bind="click: unfanFn" class="stop-fanning" data-label="Remove as fan" data-event="click" data-category="remove-fan">Not a fan</button></span>
+      <span class="checking-fan-status">Checking fan status...</span>
+    </li>
+  </ul>
+
+  <div data-bind="css: { 'has-testimonial': testimonial() == undefined || testimonial().length, 'has-no-testimonial': ! testimonial() || ! testimonial().length }, visible: ! isCurrentUser() &amp;&amp; isFan()" class="testimonial has-testimonial has-no-testimonial">
+    <div data-bind="attr: { 'data-gc-version': typeof testimonialGcVersion == 'undefined' ? undefined : testimonialGcVersion }" class="current-testimonial">
+      <p data-bind="text: testimonial">Thanks for being so helpful in mathematics. If you are getting
+      quality help, make sure you spread the word about OpenStudy.</p>
+      <h6>This is the testimonial you wrote.</h6>
+      <button class="edit-testimonial">Edit testimonial</button>
+    </div>
+
+    <div class="no-testimonial">
+      <h6>You haven't written a testimonial for <span data-bind="text: username" class="username">Owlfred</span>.</h6>
+      <button class="edit-testimonial">
+        Click here to write a testimonial.
+      </button>
+    </div>
+
+    <div class="edit-testimonial">
+      <label for="tooltip-testimonial">You just became <span data-bind="text: username" class="username">Owlfred</span>'s fan. Take the time to write a testimonial; they will appreciate it!</label>
+      <textarea maxlength="500" data-bind="text: testimonial" id="tooltip-testimonial"></textarea>
+
+      <button class="cancel">Cancel</button>
+      <button type="submit" class="submit">Submit</button>
+    </div>
+  </div>
+  <div class="arrow"></div>
+</div>
+
+
+    <br /><center><a href="http://monarchads.com/" target="_blank"><img alt="" src="../images/monarch.png" /></a></center>
+
+
+
+
+          
+          <div style="width:728px; height:90px;" class="new-ad-2" id="div-gpt-ad-1425190919842-5">
+              <script type="text/javascript">
+              google_ad_client = 'ca-pub-2224625513254808';
+              /* openstudy.com_728_90_B_tt */
+              google_ad_slot = 'openstudy.com_728_90_B_tt';
+              google_ad_width = 728;
+              google_ad_height = 90;
+              </script>
+
+              <script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+              </script>
+          </div>
+      </div>
+    </div>
+
+    
+
+    
+      <script src="//www.hellobar.com/hellobar.js" type="text/javascript"></script>
+      <script type="text/javascript">
+          new HelloBar(12256,66059);
+      </script>
+    
+    
+    <script type="text/javascript">
+      /* <![CDATA[ */
+      var google_conversion_id = 980017733;
+      var google_custom_params = window.google_tag_params;
+      var google_remarketing_only = true;
+      if ($('body').is('.logged-in')) {
+        var google_conversion_label = "q4EWCKOWtQcQxcSn0wM";
+      }
+      /* ]]> */
+    </script>
+
+    
+    <script>
+        $(document).ready(function(){
+            $(' #content').find(' ol li').slice(5).hide();
+            $('.show-answer a').click(function(){
+                $(this).parent().hide();
+                $(' #content').find('ol li').slideDown('slow');
+                /*
+                googletag.cmd.push(function() {
+                    ad3 = googletag.defineSlot('/28653467/Search_160x600', [160, 600], 'div-gpt-ad-1425190919842-3').addService(googletag.pubads());
+                    ad4 = googletag.defineSlot('/28653467/Search_2_300x250', [300, 250], 'div-gpt-ad-1425190919842-4').addService(googletag.pubads());
+                    ad5 = googletag.defineSlot('/28653467/Search_2_728x90', [728, 90], 'div-gpt-ad-1425190919842-5').addService(googletag.pubads());
+                    ad6 = googletag.defineSlot('/28653467/Search_300x250', [300, 250], 'div-gpt-ad-1425190919842-6').addService(googletag.pubads());
+                    ad7 = googletag.defineSlot('/28653467/Search_300x600', [300, 600], 'div-gpt-ad-1425190919842-7').addService(googletag.pubads());
+                    ad8 = googletag.defineSlot('/28653467/Search_728x90', [728, 90], 'div-gpt-ad-1425190919842-8').addService(googletag.pubads());
+
+                    googletag.pubads().enableSingleRequest();
+                    googletag.enableServices();
+                });
+
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-3'); });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-4'); });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-5'); });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-6'); });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-8'); });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-7'); });
+                */
+                return false;
+            });
+
+            $('.sign-up-1').click(function(){
+                $(this).find('a').each(function(o){
+                    if(typeof(o.target) !== undefined) o.target('click')
+                });
+            });
+
+            $('li.update-info').show();
+
+            $('#content header, '         +
+              '.show-answer a, '          +
+              '.own-question .ask,'       +
+              '.own-question .findmore, ' +
+              '.top-online-users .more, ' +
+              '.top-online-users .explore,' +
+              '.competition a, '            +
+              '.for-teachers a, '           +
+              'input.clickme,'              +
+              '.get-app a'
+              ).click(function(){
+                  /*
+                googletag.cmd.push(function() {
+                    ad1 = googletag.defineSlot('/28653467/Search_160x600', [160, 600], 'div-gpt-ad-1425190919842-3').addService(googletag.pubads());
+                    ad2 = googletag.defineSlot('/28653467/Search_2_300x250', [300, 250], 'div-gpt-ad-1425190919842-4').addService(googletag.pubads());
+                    ad3 = googletag.defineSlot('/28653467/Search_2_728x90', [728, 90], 'div-gpt-ad-1425190919842-5').addService(googletag.pubads());
+                    ad4 = googletag.defineSlot('/28653467/Search_300x600', [300, 600], 'div-gpt-ad-1425190919842-7').addService(googletag.pubads());
+                    ad5 = googletag.defineSlot('/28653467/Search_300x250', [300, 250], 'div-gpt-ad-1425190919842-6').addService(googletag.pubads());
+                    ad6 = googletag.defineSlot('/28653467/Search_728x90', [728, 90], 'div-gpt-ad-1425190919842-8').addService(googletag.pubads());
+
+                    googletag.pubads().enableSingleRequest();
+                    googletag.enableServices();
+                });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-3'); });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-4'); });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-5'); });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-6'); });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-7'); });
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425190919842-8'); });
+                */
+            });
+        });
+    </script>
+
+    
+    <script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980017733/?value=0&amp;guid=ON&amp;script=0" alt="" style="border-style:none;" width="1" height="1" />
+        </div>
+        
+    </noscript>
+  <script type="text/javascript" src="/ajax_request/liftAjax.js"></script>
+
+	<script type="text/javascript" src="http://assets.openstudy.com/javascripts/search-landing.js?699a07fe4027b647931e12d4c3b6f94b"></script>
+	
+<script type="text/javascript">
+// <![CDATA[
+
+var lift_page = "F133223575806VGTFOL";
+// ]]>
+</script></body>
+</html>  
+  7∞±Ûô      V&[’V&\J;∂Í§       6:http://openstudy.com/updates/4f308646e4b0fc09381eedc8 necko:classified 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Tue, 20 Oct 2015 15:20:53 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Type: text/html;charset=UTF-8
+X-UA-Compatible: IE=Edge,chrome=IE7
+Content-Length: 41098
+X-Lift-Version: 2.5.1
+Server: Jetty(8.1.16.v20140903)
+Cache-Control: private
+ charset UTF-8 uncompressed-len 0 predictor::resource-count 52 predictor::http://assets.openstudy.com/stylesheets/openstudy.css?bd1626776da29e48208ce2554ea26d87 1,1,1445354453,0 predictor::http://api.mixpanel.com/site_media/js/api/mixpanel.js 1,1,1445354453,0 predictor::http://assets.openstudy.com/javascripts/base-libs.js?2b11b2d469480b7e5a4d64768c39aa00 1,1,1445354453,0 predictor::http://assets.openstudy.com/javascripts/jquery-address.js?1d3f939fe75ebe1e8975f1728c0925ee 1,1,1445354453,0 predictor::http://assets.openstudy.com/stylesheets/search-landing.css?be372639e41c568cbc054e0b27dde657 1,1,1445354453,0 predictor::http://pagead2.googlesyndication.com/pagead/show_ads.js 1,1,1445354453,0 predictor::http://openstudy.com/images/logo-big.png 1,1,1445354453,0 predictor::http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js 1,1,1445354453,0 predictor::http://vcdn.vbz.netdna-cdn.com/jwplayer5/jwplayer.js 1,1,1445354453,0 predictor::http://openstudy.com/images/user1.png 1,1,1445354453,0 predictor::http://openstudy.com/images/user2.png 1,1,1445354453,0 predictor::http://openstudy.com/images/user3.png 1,1,1445354453,0 predictor::http://openstudy.com/images/user4.png 1,1,1445354453,0 predictor::http://graph.facebook.com/1379970675/picture?type=square 1,1,1445354453,0 predictor::http://assets.openstudy.com/users/xishem/avatar/large?1345951310093 1,1,1445354453,0 predictor::http://openstudy.com/images/medal-icon-small.png 1,1,1445354453,0 predictor::http://assets.openstudy.com/users/unklerhaukus/avatar/large?1443184339211 1,1,1445354453,0 predictor::http://openstudy.com/images/who-we-are/chris.jpg 1,1,1445354453,0 predictor::http://openstudy.com/images/ajax-loader-blue.gif 1,1,1445354453,0 predictor::http://openstudy.com/images/monarch.png 1,1,1445354453,0 predictor::http://www.hellobar.com/hellobar.js 1,1,1445354453,0 predictor::http://www.googleadservices.com/pagead/conversion.js 1,1,1445354453,0 predictor::http://openstudy.com/ajax_request/liftAjax.js 1,1,1445354453,0 predictor::http://assets.openstudy.com/javascripts/search-landing.js?699a07fe4027b647931e12d4c3b6f94b 1,1,1445354453,0 predictor::http://openstudy.com/images/group-noise.png?1406796772 1,1,1445354453,0 predictor::http://edge.quantserve.com/quant.js 1,1,1445354453,0 predictor::http://api.mixpanel.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiTGludXgiLCIkYnJvd3NlciI6ICJGaXJlZm94IiwiJHJlZmVycmVyIjogImh0dHBzOi8vd3d3Lmdvb2dsZS5hZSIsIiRyZWZlcnJpbmdfZG9tYWluIjogInd3dy5nb29nbGUuYWUiLCIkaW5pdGlhbF9yZWZlcnJlciI6ICJodHRwczovL3d3dy5nb29nbGUuYWUiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogInd3dy5nb29nbGUuYWUiLCJtcF9yZWZlcnJlciI6ICJodHRwczovL3d3dy5nb29nbGUuYWUiLCJtcF9icm93c2VyIjogIkZpcmVmb3giLCJtcF9wbGF0Zm9ybSI6ICJMaW51eCIsIm1wX3BhZ2UiOiAiaHR0cDovL29wZW5zdHVkeS5jb20vdXBkYXRlcy80ZjMwODY0NmU0YjBmYzA5MzgxZWVkYzgiLCJ0b2tlbiI6ICIwZTU0NDVhMGZlMzBjNWQ3OWY2MGI1ZTZhNTE1Y2ZhYyIsInRpbWUiOiAxNDQ1MzU0NDU4fX0%3D&ip=1&callback=mpmetrics.jsonp_callback&_=1445354458932 1,1,1445354453,0 predictor::http://b.scorecardresearch.com/beacon.js 1,1,1445354453,0 predictor::http://www.google-analytics.com/analytics.js 1,1,1445354453,0 predictor::http://www.googletagservices.com/tag/js/gpt.js 1,1,1445354453,0 predictor::http://pixel.quantserve.com/pixel;r=1015025178;a=p-b50-TZCjZ0XCQ;fpan=1;fpa=P0-1110450609-1445354459012;ns=0;ce=1;cm=;je=0;sr=1366x768x24;enc=n;dst=0;et=1445354459011;tzo=-240;ref=https%3A%2F%2Fwww.google.ae;url=http%3A%2F%2Fopenstudy.com%2Fupdates%2F4f308646e4b0fc09381eedc8;ogl=image.http%3A%2F%2Fopenstudy%252Ecom%2Fimages%2Flanding-logo%252Epng 1,1,1445354453,0 predictor::https://pagead2.googlesyndication.com/pub-config/ca-pub-2224625513254808.js 1,1,1445354453,0 predictor::http://pagead2.googlesyndication.com/pagead/js/r20151008/r20151016/show_ads_impl.js 1,1,1445354453,0 predictor::http://www.google-analytics.com/collect?v=1&_v=j39&a=607610831&t=pageview&_s=1&dl=http%3A%2F%2Fopenstudy.com%2Fupdates%2F4f308646e4b0fc09381eedc8&dr=https%3A%2F%2Fwww.google.ae&ul=en-us&de=UTF-8&dt=OpenStudy&sd=24-bit&sr=1366x768&vp=1288x640&je=0&fl=11.2%20r202&_u=AGAAgEAB~&jid=318423429&cid=2114931978.1445354459&tid=UA-8521642-4&z=198684838 1,1,1445354453,0 predictor::https://stats.g.doubleclick.net/r/collect?t=dc&aip=1&_r=3&v=1&_v=j39&tid=UA-8521642-4&cid=2114931978.1445354459&jid=318423429&_u=AGAAgEAB~&z=688663768 1,1,1445354453,0 predictor::http://b.scorecardresearch.com/b?c1=2&c2=6035233&ns__t=1445354459069&ns_c=UTF-8&c8=OpenStudy&c7=http%3A%2F%2Fopenstudy.com%2Fupdates%2F4f308646e4b0fc09381eedc8&c9=https%3A%2F%2Fwww.google.ae 1,1,1445354453,0 predictor::http://my.hellobar.com/12256_66059.js 1,1,1445354453,0 predictor::http://partner.googleadservices.com/gpt/pubads_impl_73.js 1,1,1445354453,0 predictor::https://pagead2.googlesyndication.com/pagead/js/r20151008/r20151016/expansion_embed.js 1,1,1445354453,0 predictor::https://pagead2.googlesyndication.com/pagead/osd.js 1,1,1445354453,0 predictor::https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3040865737827701&output=json_html&callback=callbackProxy&impl=fifs&json_a=1&eid=108809080%2C108809049&sc=0&sfv=1-0-2&iu_parts=28653467%2CSearch_160x600&enc_prev_ius=%2F0%2F1&prev_iu_szs=160x600&cookie_enabled=1&lmt=1445354461&dt=1445354461842&cc=100&frm=20&biw=1288&bih=640&oid=3&adks=2554313206&gut=v2&ifi=7&u_tz=240&u_his=1&u_h=768&u_w=1366&u_ah=744&u_aw=1301&u_cd=24&u_nplug=6&u_nmime=46&u_sd=1&flash=11.2.202&url=http%3A%2F%2Fopenstudy.com%2Fupdates%2F4f308646e4b0fc09381eedc8&ref=https%3A%2F%2Fwww.google.ae&dssz=40&icsg=43980509808652&std=5&vrg=73&vrp=73&ga_vid=2114931978.1445354459&ga_sid=1445354461&ga_hid=607610831 1,1,1445354453,0 predictor::http://redir.adap.tv/redir/javascript/adaptvInfo.js 1,1,1445354453,0 predictor::http://dtm.advertising.com/411f1e96-3bde-4d85-b17e-63749e5f0695.js 1,1,1445354453,0 predictor::https://tpc.googlesyndication.com/simgad/3652424293902450936 1,1,1445354453,0 predictor::http://cdn-static.liverail.com/js/companions.js?20131002 1,1,1445354453,0 predictor::http://rs2.adledge.com/alestetkr.js 1,1,1445354453,0 predictor::http://rs2.adledge.com/aleaskw.js 1,1,1445354453,0 predictor::http://pagead2.googlesyndication.com/activeview?id=osdim&avi=BKreO3lsmVtSjOtLJWqDVrLALAAAAABABOAHIAQLAAgLgAgDIA5kE4AQBoAYU&cid=5GgIGJ8mneDR82fH6YXQ-elDmCI&ti=1&adk=2554313206&p=770,44,1370,204&tos=0,835,362,849,699&mtos=0,835,1197,2046,2745&rs=3&ht=0&tfs=5768&tls=8513&fp=client%3Dca-pub-2224625513254808%26url%3Dhttp%253A%252F%252Fopenstudy.com%252Fupdates%252F4f308646e4b0fc09381eedc8%26correlator%3D5226948313014%26eid%3D575144605%252C317150304%26oid%3D3&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1445354461854%26adx%3D44%26ady%3D770%26ifi%3D8%26flash%3D11.2.202&tmo=1948&tme=2298&tdl=1959&tcl=2307&abd=1-0-23&r=u&bs=1288,640&bos=1301,744&ps=1288,2585&ss=1366,768&tt=8516&pt=-1&deb=1-0-7-23-24--1&tvt=6217&iframe_loc=http%3A%2F%2Fopenstudy.com%2Fupdates%2F4f308646e4b0fc09381eedc8&is=300,600&uc=23&tgt=IMG&cl=1 1,1,1445354453,0 predictor::http://old.hellobar.com/hellobar-12256-66059.js 1,1,1445354453,0 predictor::http://static.chartbeat.com/js/chartbeat.js 1,1,1445354453,0 predictor::http://ping.chartbeat.net/ping?h=openstudy.com&p=%2Fupdates%2F4f308646e4b0fc09381eedc8&u=CMuPITDtENG0Cjoe62&d=openstudy.com&g=13966&n=1&f=00001&c=0&x=171&m=171&y=2585&o=1288&w=640&j=45&R=1&W=0&I=0&E=0&e=0&r=https%3A%2F%2Fwww.google.ae%2F&b=102238&t=DmQFuaBy64vPk4dTYC3YRwQCc40vf&V=66&i=OpenStudy&tz=-240&sn=1&_ 1,1,1445354453,0 predictor::http://pagead2.googlesyndication.com/activeview?id=osdtos&avi=BKreO3lsmVtSjOtLJWqDVrLALAAAAABABOAHIAQLAAgLgAgDIA5kE4AQBoAYU&cid=5GgIGJ8mneDR82fH6YXQ-elDmCI&ti=1&adk=2554313206&p=770,44,1370,204&tos=9960,17950,1312,1387,64397&mtos=9960,27374,28686,30609,93571&rs=3&ht=0&tfs=5768&tls=108290&fp=client%3Dca-pub-2224625513254808%26url%3Dhttp%253A%252F%252Fopenstudy.com%252Fupdates%252F4f308646e4b0fc09381eedc8%26correlator%3D5226948313014%26eid%3D575144605%252C317150304%26oid%3D3&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1445354461854%26adx%3D44%26ady%3D770%26ifi%3D8%26flash%3D11.2.202&tmo=1948&tme=2298&tdl=1959&tcl=2307&abd=1-0-176&r=u&bs=1288,640&bos=1301,744&ps=1288,2585&ss=1366,768&tt=8832&pt=99458&deb=1-7-7-392-177-11&tvt=98474&iframe_loc=http%3A%2F%2Fopenstudy.com%2Fupdates%2F4f308646e4b0fc09381eedc8&is=300,600&uc=176&tgt=IMG&cl=1 1,1,1445354453,0   †ä

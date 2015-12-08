@@ -1,0 +1,265 @@
+function verifyProfilePasswordSha(formname)
+{
+	
+   var formObj=eval("document."+formname);
+	if(formObj.profilePassword.value == "")
+	{
+		alert("Enter profile password");
+		formObj.profilePassword.focus();
+		return false;
+	}
+	//aruna	
+	encryptSha2ProfilePassword(formname,"profilePassword", "shaProfilePasswd");
+	encryptPassword(formname,"profilePassword");	
+	formObj.mvkbLang.value = formObj.ppSelect.value;
+	formObj.submit();
+}
+
+function profilePWDValidationSha(formname)
+{
+	
+	var changeFromObj=eval("document."+formname);
+	var newpass=eval("document."+formname+".newPassword.value");
+	var profpassword =eval("document."+formname+".profpassword");
+	profpassword.value = newpass;
+	if(changeFromObj.oldProfilePassword.value == ""){
+		alert("Enter old profile password");
+		changeFromObj.oldProfilePassword.focus();
+		return false;
+	}		
+	
+	else if(changeFromObj.newPassword.value == ""){
+		alert("Enter new profile Password");
+		changeFromObj.newPassword.focus();
+		return false;
+	}
+	else if(changeFromObj.confirmPassword.value == ""){
+		alert ("Re-type the new profile Password");
+		changeFromObj.confirmPassword.focus();
+		return false;
+	}else if(changeFromObj.newPassword.value == changeFromObj.oldProfilePassword.value){
+		alert("Old profile password and new profile password cannot be the same");
+		changeFromObj.newPassword.focus();
+		return false;
+	}		
+	else if(changeFromObj.newPassword.value != changeFromObj.confirmPassword.value ){
+		alert("New profile password and Re-type new profile password fields should match");
+		changeFromObj.confirmPassword.focus();
+		return false;
+	}		
+	else if(!passwordCheck(changeFromObj.newPassword.value)){
+		changeFromObj.newPassword.focus();
+		return false;	
+	}
+	else{
+		encryptSha2ProfilePassword(formname,"newPassword", "shaProfilePasswd");
+	   encryptPassword(formname,"newPassword");	   
+	   var encConfirmPwd=eval("document."+formname+".newPassword.value");
+	   var confirmpass=eval("document."+formname+".confirmPassword");
+	   confirmpass.value=encConfirmPwd;
+	   
+	   changeFromObj.submit();	
+	}
+}	
+
+function validateSetPasswordSha(formname){
+   	var formObj=eval("document."+formname);
+	var newpass=eval("document."+formname+".profilePassword.value");
+	var profpassword =eval("document."+formname+".profpassword");
+	profpassword.value = newpass;
+	
+	if(formObj.profilePassword.value == ""){
+		alert("Enter profile password");
+		formObj.profilePassword.focus();
+		return false;
+	}		
+	else if(formObj.confirmprofilePassword.value == ""){
+		alert("Enter confirm password");
+		formObj.confirmprofilePassword.focus();
+		return false;
+	}else if(formObj.profilePassword.value != formObj.confirmprofilePassword.value){
+		alert("Profile password and confirm password should be the same");
+		formObj.profilePassword.focus();
+		return false;
+	}else if(!passwordCheck(formObj.profilePassword.value))
+		return false;
+	//if(document.getElementById("hintQuestion") != null){
+		if(formObj.hintQuestion.value == ""){
+			alert("Select hint question");
+			formObj.hintQuestion.focus();
+			return false;
+		}else if(formObj.hintAnswer.value == ""){
+			alert("Enter hint answer");
+			formObj.hintAnswer.focus();
+			return false;
+		}else if(!checkanswer("setProfilePwd","hintAnswer","hint answer"))
+			return false;
+	//}
+	
+	if(!validateDOBPOB(formObj,'no'))
+		return false;
+		encryptSha2ProfilePassword(formname,"profilePassword", "shaprofpassword");
+	   encryptPassword(formname,"profilePassword");
+	   var encConfirmPwd=eval("document."+formname+".profilePassword.value");
+	   var confirmpass=eval("document."+formname+".confirmprofilePassword");
+	   confirmpass.value=encConfirmPwd;
+	   formObj.submit();	
+}
+
+function submitLoginSha(md5KeyValue)
+{   	
+	//added for CR 5034 - begin.
+	var username ="";
+	var errorCode = document.quickLookForm.errorCode.value;
+	if (errorCode!=null && errorCode == 'K001'){
+		username = document.quickLookForm.kModeUserName.value;// user name from tmpl_style
+		//alert("11"+username);
+	}
+	else{
+		username = document.quickLookForm.userName.value;		
+		//alert("22"+username);
+	}
+	//added for CR 5034 - end.
+	var password= document.quickLookForm.password.value;
+	var regexp = new RegExp("\\d{19}");
+	if(username==""){
+		alert("Enter username");
+		document.quickLookForm.userName.focus();
+		var password ="";
+		return false;
+	}
+	else if(password=="")
+	{
+		alert("Enter password");
+		document.quickLookForm.password.focus();
+		return false;
+	}  
+	else{
+		if( password.length>20){
+			alert("Password length should not be more than 20 characters");
+			document.quickLookForm.password.value="";
+			document.quickLookForm.password.focus();
+			var password ="";
+			return false;
+		}
+
+        document.getElementById("Button2").disabled=true;
+        var md5keystring = md5KeyValue;//document.quickLookForm.md5key.value ;
+       // var md5keystring = document.quickLookForm.md5key.value ;
+		var encSaltPass=encryptLoginPassword(md5keystring,username,password);
+		var encSaltSHAPass=encryptSha2LoginPassword(md5keystring,username,password);
+		document.quickLookForm.password.value=encSaltPass; //changed
+		document.quickLookForm.shapassword.value=encSaltSHAPass; //changed
+		document.quickLookForm.action="loginsubmit.htm"
+		document.quickLookForm.submit();
+		
+	}
+	var password ="";
+	return true;
+}
+
+function encryptSha2ProfilePassword(formname,strpwd,inpfld){
+	try{
+		var username=eval("document."+formname+".username.value");
+		var profPass=eval("document."+formname+"."+strpwd+".value");
+		var shaHash =username+"|"+profPass;
+		var encString = CryptoJS.SHA512(shaHash); 
+		//aruna
+		var ppf=eval("document."+formname+"."+inpfld);
+		ppf.value=encString;
+		}catch(error){
+			
+		}
+		
+	}
+//Added by lenin for CR 256 profile pwd salt impl
+function verifyProfilePasswordShaSalt(formname,proPwdkey)
+{
+	
+   var formObj=eval("document."+formname);
+	if(formObj.profilePassword.value == "")
+	{
+		alert("Enter profile password");
+		formObj.profilePassword.focus();
+		return false;
+	}	
+	encryptSha2ProfilePasswordVerify(formname,"profilePassword", proPwdkey);
+	encryptProfilePassword(formname,"profilePassword", proPwdkey);
+	formObj.mvkbLang.value = formObj.ppSelect.value;
+	formObj.submit();
+}
+function encryptSha2ProfilePasswordVerify(formname,strpwd,proPwdkey){
+	try{		
+		var username=eval("document."+formname+".username.value");
+		var profPass=eval("document."+formname+"."+strpwd+".value");
+		var shaHash =CryptoJS.SHA512(username+"|"+profPass);
+		var encString = CryptoJS.SHA512(shaHash+"|"+proPwdkey);		
+		//aruna
+		var ppf=eval("document."+formname+".shaProfilePasswd");
+		ppf.value=encString;
+		}catch(error){
+			
+		}
+		
+	}
+	
+function profilePWDValidationShaRetail(formname)
+{
+	var changeFromObj=eval("document."+formname);
+	var oldpass=eval("document."+formname+".oldProfilePassword.value");
+	var newpass=eval("document."+formname+".newPassword.value");
+	var confirmpass=eval("document."+formname+".confirmPassword.value");
+	
+	if(oldpass == ""){
+		alert("Enter old profile password");
+		changeFromObj.oldProfilePassword.focus();
+		return false;
+	}		
+
+	else if(changeFromObj.newPassword.value == ""){
+		alert("Enter new profile Password");
+		changeFromObj.newPassword.focus();
+		return false;
+	}
+	else if(changeFromObj.confirmPassword.value == ""){
+		alert ("Re-type the new profile Password");
+		changeFromObj.confirmPassword.focus();
+		return false;
+	}else if(changeFromObj.newPassword.value == oldpass){
+		alert("Old profile password and new profile password cannot be the same");
+		changeFromObj.newPassword.focus();
+		return false;
+	}		
+	else if(changeFromObj.newPassword.value != changeFromObj.confirmPassword.value ){
+		alert("New profile password and Re-type new profile password fields should match");
+		changeFromObj.confirmPassword.focus();
+		return false;
+	}		
+
+	else if(!passwordCheck(changeFromObj.newPassword.value)){
+		changeFromObj.newPassword.focus();
+		return false;	
+	}
+	else{
+		encr(keyString,newpass,"changeProfilePwd");
+		encr(keyString,oldpass,"changeOldPwd");
+		encr(keyString,confirmpass,"changeConfirmPwd");
+		encryptSha2ProfilePassword(formname,"newPassword", "shaProfilePasswd");
+	   var encConfirmPwd=eval("document."+formname+".newPassword.value");
+	   var confirmpass=eval("document."+formname+".confirmPassword");
+	   confirmpass.value=encConfirmPwd;
+	   changeFromObj.newPassword.value="";
+	   changeFromObj.oldProfilePassword.value="";
+	   changeFromObj.confirmPassword.value="";
+	   changeFromObj.submit();
+	}
+}	
+ÌX¥;1      V3Æ<V3Æ<;¿aVoÆ   7:https://retail.onlinesbi.com/sbijava/js/profile_sha.js security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Date: Fri, 30 Oct 2015 16:21:39 GMT
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Tue, 05 Aug 2014 14:41:08 GMT
+Etag: "2ef41-21cf-4ffe2d8924900"
+Accept-Ranges: bytes
+Content-Length: 8655
+Content-Type: application/x-javascript
+ uncompressed-len 0 necko:classified 1   !œ
